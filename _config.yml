@@ -6,7 +6,7 @@ highlighter: rouge
 lsi: false
 permalink: /:title
 
-title: "Mohammad Ghasempour"
+title: "Amin Ghasempour"
 description: ""
 baseurl: ""
 url: "https://aghsempour.github.io/" # replace by your site's url
@@ -17,7 +17,7 @@ linkedin_username: mohammad-ghasempour-230692a0
 accent: "#ffffff" # accent color for blog column
 picture: 1698536759069.jfif
 
-author: "Mohammad Ghasempour"
+author: "Amin Ghasempour"
 email: "aghasempour@gmail.com"
 
 # google analytics tracking code, please change the value
